@@ -39,9 +39,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:nandudemy/devops.git</connection>
-		<developerConnection>scm:git:git@github.com:nandudemy/devops.git</developerConnection>
-		<url>git@github.com:nandudemy/devops.git</url>
+		<connection>scm:git@github.com:snteja/devops.git</connection>
+		<developerConnection>scm:git@github.com:snteja/devops.git</developerConnection>
+		<url>git@github.com:snteja/devops.git</url>
 		<tag>v1.6.1</tag>
 	</scm>
 
