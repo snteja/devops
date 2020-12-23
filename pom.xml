@@ -102,8 +102,9 @@
 			  <version>${surefire.version}</version><!--$NO-MVN-MAN-VER$-->
 			</plugin>
 			<plugin>
-			    <groupId>org.junit.vintage</groupId>
-			    <artifactId>junit-vintage-engine</artifactId>
+			    <groupId>junit</groupId>
+			    <artifactId>junit</artifactId>
+			    <version>4.11</version>
 			    <executions>
 			        <execution>
 			            <id>default-prepare-agent</id>
