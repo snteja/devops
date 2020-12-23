@@ -104,7 +104,6 @@
 			<plugin>
 			    <groupId>org.junit.vintage</groupId>
 			    <artifactId>junit-vintage-engine</artifactId>
-			    <version>5.4.0</version>
 			    <executions>
 			        <execution>
 			            <id>default-prepare-agent</id>
